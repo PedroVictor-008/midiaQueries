@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* Estilo para modo retrato */
+
+body{
+    background-image: url("../imagens02/cev-portrait.jpg");
+    background-position: center bottom;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.75em;
+}
